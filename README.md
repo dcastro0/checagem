@@ -29,7 +29,6 @@ Digite o CEP que deseja consultar quando solicitado pelo programa.
 O programa exibirá as informações correspondentes ao CEP fornecido.
 
 Exemplo
-makefile
 Copiar código
 $ python consulta_cep.py
 Digite o CEP para consulta: 12345678
